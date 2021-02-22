@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    color:seashell;
+}
+
+.background {
+    background-color: rgb(29, 28, 28);
+}
+
+/* For mobile phones: */
+@media only screen and (max-width: 768px) {
+    img {
+        width: 100%;
+        height: auto;
+      }
+  }
